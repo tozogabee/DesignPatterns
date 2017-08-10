@@ -1,7 +1,6 @@
 package com.pattern.runners;
 
 import java.awt.Color;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Optional;
 
